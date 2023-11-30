@@ -8,6 +8,7 @@
 #define миша &
 #define даня double
 #define ильнар auto
+#define дима void
 
 #define если if
 #define хуесли else
@@ -15,20 +16,21 @@
 #define мальчик true
 #define девочка false
 
-#define коротышка short
+#define коротенькое short
 #define без_негатива unsigned
 #define дылда long
 #define вечное const
 
 #define попробовать_отсидеть_пару try
-#define съебаться_с_пары catch
+#define отменить_пару throw
+#define съебаться_домой catch
 
 #define практика class
 #define лекция struct
 
 #define вынуть cout
 #define вставить cin
-#define вернуться_домой return
+#define вернуть return // надо поменять, хз как
 #define пенис "\n"
 
 #define Политех std

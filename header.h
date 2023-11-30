@@ -9,7 +9,7 @@
 #define миша &
 #define даня double
 #define ильнар auto
-#define дима void
+#define вика void
 
 #define если if
 #define хуесли else

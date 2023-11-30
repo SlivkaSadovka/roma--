@@ -33,4 +33,4 @@
 #define вернуть return // надо поменять, хз как
 #define пенис "\n"
 
-#define Политех std
+#define политех std

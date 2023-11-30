@@ -2,6 +2,7 @@
 
 #define настя int
 #define варя char
+#define пышка size_t
 #define паша bool
 #define майя float
 #define рома *
@@ -27,6 +28,11 @@
 
 #define практика class
 #define лекция struct
+
+#define испепелить delete
+#define прямо_с_завода new
+#define привет while
+#define фури for
 
 #define вынуть cout
 #define вставить cin

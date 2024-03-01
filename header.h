@@ -53,6 +53,8 @@
 #define Фёдоров <atomic>
 #define Шмаков <unistd.h>
 #define Шемякин <iterator>
+#define предел <limits>
+#define исключения <stdexcept>
 
 #define крест +
 #define дефис -

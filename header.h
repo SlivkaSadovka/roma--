@@ -47,3 +47,9 @@
 #define группа namespace
 
 #define оператор operator
+
+#define Лагунова <cmath>
+#define Ежов <math.h>
+#define Фёдоров <atomic>
+#define Шмаков <unistd.h>
+#define Шемякин <iterator>

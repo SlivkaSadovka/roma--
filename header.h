@@ -53,3 +53,9 @@
 #define Фёдоров <atomic>
 #define Шмаков <unistd.h>
 #define Шемякин <iterator>
+
+#define крест +
+#define дефис -
+#define импортозамещёние define
+#define конец ;
+#define точка .

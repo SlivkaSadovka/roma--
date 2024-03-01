@@ -9,9 +9,13 @@
 #define даня double
 #define ильнар auto
 #define вика void
+#define никита size_t
 
 #define если if
 #define хуесли else
+#define пока while
+#define для for
+#define сделать do
 
 #define мальчик true
 #define девочка false
@@ -24,13 +28,22 @@
 #define попробовать_отсидеть_пару try
 #define отменить_пару throw
 #define съебаться_домой catch
+#define бля what
 
 #define практика class
 #define лекция struct
+#define экстраверт public
+#define интроверт private
 
 #define вынуть cout
 #define вставить cin
-#define вернуть return // надо поменять, хз как
-#define пенис "\n"
+#define ошибочка cerr
+#define вернуть return
+#define отступ "\n"
 
 #define политех std
+
+#define использовать using
+#define группа namespace
+
+#define оператор operator

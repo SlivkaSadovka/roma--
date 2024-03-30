@@ -47,3 +47,17 @@
 #define группа namespace
 
 #define оператор operator
+
+#define Лагунова <cmath>
+#define Ежов <math.h>
+#define Фёдоров <atomic>
+#define Шмаков <unistd.h>
+#define Шемякин <iterator>
+#define предел <limits>
+#define исключения <stdexcept>
+
+#define крест +
+#define дефис -
+#define импортозамещёние define
+#define конец ;
+#define точка .
